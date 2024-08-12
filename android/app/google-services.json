@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422592305835",
+    "project_id": "authapp-flutlearn",
+    "storage_bucket": "authapp-flutlearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422592305835:android:cead9166a087bb9745f5ee",
+        "android_client_info": {
+          "package_name": "authapp-flutlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCzGyFDQ17hQg-_ilM2dvGXMODP2CreI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
